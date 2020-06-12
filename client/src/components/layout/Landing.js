@@ -9,10 +9,9 @@ class Landing extends Component {
           <div className="col s12 center-align">
             <h4>
               <b>ASIPSS</b>
-              <span style={{ fontFamily: "monospace" }}>MERN</span>
             </h4>
             <p className="flow-text grey-text text-darken-1">
-              Register and Login for simulation
+              Login for an interactive ASIPSS simulation
             </p>
             <br />
             <div className="col s6">
